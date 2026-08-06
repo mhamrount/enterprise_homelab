@@ -21,7 +21,7 @@ Ce laboratoire me permet de mettre en pratique dans un environnement contrôlé 
 - Créer des stratégies de groupe et les déployer
 - Documenter les configurations et procédures réalisées
 
-## Suvi du projet
+## Suivi du projet
 
 [x] Création de l'environnement de travail
 [ ] Mise en place des premières machines virtuelles
